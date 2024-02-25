@@ -1,2 +1,1 @@
-# web_sites
-Web-sites' templates
+# First trials and errors with Django
